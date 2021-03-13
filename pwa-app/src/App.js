@@ -5,8 +5,7 @@ import {Navbar,Nav} from 'react-bootstrap'
 import Home from './home.js';
 import About from './about.js';
 import Users from './users.js';
-import { Link,Route,BrowserRouter,Switch} from 'react-router-dom';
-import swDev from './main.js';
+import { Route,BrowserRouter,Switch} from 'react-router-dom';
 function App() {
 
   return (
@@ -15,9 +14,9 @@ function App() {
       <Navbar bg="primary" variant="dark">
     <Navbar.Brand href="#home">Navbar</Navbar.Brand>
     <Nav className="mr-auto">
-      <Nav.Link ><Link to="/">Home</Link></Nav.Link>
-      <Nav.Link ><Link to="/about">About</Link></Nav.Link>
-      <Nav.Link ><Link to="/users">Users</Link></Nav.Link>
+      <Nav.Link to="/" >Home</Nav.Link>
+      <Nav.Link to="/about">About</Nav.Link>
+      <Nav.Link >Users</Nav.Link>
     </Nav>
     {/* <Form inline>
       <FormControl type="text" placeholder="Search" className="mr-sm-2" />
@@ -35,5 +34,4 @@ function App() {
     </div>
   );
 }
-swDev();
 export default App;
