@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import socket from "./../socket";
-
+import {xy} from './RemoteController.js'
 import "./RemotePage.css";
 const iceServer = {
     'iceServer':[
@@ -149,9 +149,7 @@ export default class RemotePage extends Component {
     render(){
         
         return <>
-        <video onClick={()=>{
-            console.log(this.state)
-        }} autoPlay className="streamPlayer" ref={this.handleContext}></video>
+        <video onClick={xy} autoPlay className="streamPlayer" ref={this.handleContext}></video>
         </>
     }
 }

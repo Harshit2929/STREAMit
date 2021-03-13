@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 // const { desktopCapturer } = require('electron')
 import socket from './socket/socket';
-
+var w=screen.width();
 let room_no,localStream, remoteStream, rtcPeerConnection, isCaller;
 let ROOM_NO = 500;
 const iceServer = {
@@ -183,7 +183,7 @@ function onIceCandidate(event){
       <button className="btn btn-default"><span className="icon icon-pause"></span> Pause Sharing</button>
       <button className="btn btn-default"><span className="icon icon-stop"></span> End Sharing</button>
     </div>
-    <video src="" ref={sctx=>{
+    <video className="streamPlayer" src="" ref={sctx=>{
         setCtx(sctx);
       }}></video>
 
