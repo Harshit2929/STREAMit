@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 // const { desktopCapturer } = require('electron')
 import socket from './socket/socket';
-var w=screen.width();
+// var w=screen.width();
 let room_no,localStream, remoteStream, rtcPeerConnection, isCaller;
 let ROOM_NO = 500;
 const iceServer = {

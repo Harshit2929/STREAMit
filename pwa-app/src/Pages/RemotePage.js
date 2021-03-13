@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import socket from "./../socket";
-import {xy} from './RemoteController.js'
+import xy from './RemoteController.js'
 import "./RemotePage.css";
 const iceServer = {
     'iceServer':[
