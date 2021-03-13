@@ -1,3 +1,3 @@
 import {io} from "socket.io-client";
 
-export default io("http://localhost:4000");
+export default io("http://192.168.0.104:4000");
