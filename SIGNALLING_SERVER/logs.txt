@@ -1,0 +1,100 @@
+2020-08-07T12:52:41.206594+00:00 app[api]: Release v2 created by user pushpendra.hpx2001@gmail.com
+2020-08-07T12:52:41.206594+00:00 app[api]: Enable Logplex by user pushpendra.hpx2001@gmail.com
+2020-08-07T12:59:16.000000+00:00 app[api]: Build started by user pushpendra.hpx2001@gmail.com
+2020-08-07T12:59:31.392844+00:00 app[api]: Deploy 9d06e901 by user pushpendra.hpx2001@gmail.com
+2020-08-07T12:59:31.392844+00:00 app[api]: Release v3 created by user pushpendra.hpx2001@gmail.com
+2020-08-07T12:59:31.414311+00:00 app[api]: Scaled to web@1:Free by user pushpendra.hpx2001@gmail.com
+2020-08-07T12:59:32.000000+00:00 app[api]: Build succeeded
+2020-08-07T12:59:33.294288+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T12:59:35.192470+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T12:59:35.198221+00:00 app[web.1]: 
+2020-08-07T12:59:35.198472+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T12:59:35.198640+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T12_59_35_193Z-debug.log
+2020-08-07T12:59:35.240203+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T12:59:35.276467+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T12:59:35.283443+00:00 heroku[web.1]: State changed from crashed to starting
+2020-08-07T12:59:37.055619+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T12:59:39.056527+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T12:59:39.061682+00:00 app[web.1]: 
+2020-08-07T12:59:39.061937+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T12:59:39.062034+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T12_59_39_057Z-debug.log
+2020-08-07T12:59:39.093433+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T12:59:39.125908+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T13:00:07.410003+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=video-webrtc-hac.herokuapp.com request_id=1a293679-19f0-4a4d-af17-35542007ab37 fwd="157.32.191.112" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T13:00:08.512536+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=video-webrtc-hac.herokuapp.com request_id=53fb8283-c99e-4253-ae94-41d0f6846ebc fwd="157.32.191.112" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T13:01:59.000000+00:00 app[api]: Build started by user pushpendra.hpx2001@gmail.com
+2020-08-07T13:02:13.859478+00:00 app[api]: Deploy 936fc259 by user pushpendra.hpx2001@gmail.com
+2020-08-07T13:02:13.859478+00:00 app[api]: Release v4 created by user pushpendra.hpx2001@gmail.com
+2020-08-07T13:02:14.000000+00:00 app[api]: Build succeeded
+2020-08-07T13:02:14.229544+00:00 heroku[web.1]: State changed from crashed to starting
+2020-08-07T13:02:16.109872+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T13:02:18.566687+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T13:02:18.575811+00:00 app[web.1]: 
+2020-08-07T13:02:18.576238+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T13:02:18.576470+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T13_02_18_567Z-debug.log
+2020-08-07T13:02:18.766550+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T13:02:18.797585+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T13:02:22.567567+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=video-webrtc-hac.herokuapp.com request_id=ce58d4fd-640a-404c-ae67-b5822f0c3e5f fwd="157.32.191.112" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T13:02:23.452103+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=video-webrtc-hac.herokuapp.com request_id=fea1b883-a1c4-43a0-94d1-e62ebc2e0004 fwd="157.32.191.112" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T13:05:03.000000+00:00 app[api]: Build started by user pushpendra.hpx2001@gmail.com
+2020-08-07T13:05:19.655742+00:00 app[api]: Deploy 59e9f69e by user pushpendra.hpx2001@gmail.com
+2020-08-07T13:05:19.655742+00:00 app[api]: Release v5 created by user pushpendra.hpx2001@gmail.com
+2020-08-07T13:05:20.000000+00:00 app[api]: Build succeeded
+2020-08-07T13:05:20.023312+00:00 heroku[web.1]: State changed from crashed to starting
+2020-08-07T13:05:21.861398+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T13:05:23.983216+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T13:05:23.987363+00:00 app[web.1]: 
+2020-08-07T13:05:23.987660+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T13:05:23.987785+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T13_05_23_983Z-debug.log
+2020-08-07T13:05:24.029204+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T13:05:24.061281+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T13:05:29.208569+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=video-webrtc-hac.herokuapp.com request_id=1ab8e7e6-9cbf-4bf1-b924-d91e8b975ca0 fwd="157.32.191.112" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T13:05:30.133107+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=video-webrtc-hac.herokuapp.com request_id=229a7adf-920f-484c-a1a9-2bbbf1365511 fwd="157.32.191.112" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T13:06:01.821080+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=video-webrtc-hac.herokuapp.com request_id=f6586bcc-fecc-4207-aa48-213594293ab0 fwd="157.32.191.112" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T13:16:09.639187+00:00 heroku[web.1]: State changed from crashed to starting
+2020-08-07T13:16:12.515543+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T13:16:15.635129+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T13:16:15.650493+00:00 app[web.1]: 
+2020-08-07T13:16:15.651116+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T13:16:15.651444+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T13_16_15_639Z-debug.log
+2020-08-07T13:16:15.718236+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T13:16:15.760103+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T13:40:11.870225+00:00 heroku[web.1]: State changed from crashed to starting
+2020-08-07T13:40:14.167743+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T13:40:16.887452+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T13:40:16.892219+00:00 app[web.1]: 
+2020-08-07T13:40:16.892458+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T13:40:16.892568+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T13_40_16_888Z-debug.log
+2020-08-07T13:40:16.952292+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T13:40:16.993841+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T14:22:16.915548+00:00 heroku[web.1]: State changed from crashed to starting
+2020-08-07T14:22:18.902064+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T14:22:22.546501+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T14:22:22.559238+00:00 app[web.1]: 
+2020-08-07T14:22:22.560494+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T14:22:22.560702+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T14_22_22_548Z-debug.log
+2020-08-07T14:22:22.650038+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T14:22:22.689020+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T14:38:15.000000+00:00 app[api]: Build started by user pushpendra.hpx2001@gmail.com
+2020-08-07T14:38:28.814976+00:00 app[api]: Release v6 created by user pushpendra.hpx2001@gmail.com
+2020-08-07T14:38:28.814976+00:00 app[api]: Deploy 9b4b9f4f by user pushpendra.hpx2001@gmail.com
+2020-08-07T14:38:29.000000+00:00 app[api]: Build succeeded
+2020-08-07T14:38:29.024572+00:00 heroku[web.1]: State changed from crashed to starting
+2020-08-07T14:38:33.118264+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T14:38:36.698855+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T14:38:36.709933+00:00 app[web.1]: 
+2020-08-07T14:38:36.710977+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T14:38:36.711329+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T14_38_36_700Z-debug.log
+2020-08-07T14:38:36.782171+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T14:38:36.853218+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T14:38:36.855820+00:00 heroku[web.1]: State changed from crashed to starting
+2020-08-07T14:38:39.256058+00:00 heroku[web.1]: Starting process with command `npm start`
+2020-08-07T14:38:41.789652+00:00 app[web.1]: npm ERR! missing script: start
+2020-08-07T14:38:41.798778+00:00 app[web.1]: 
+2020-08-07T14:38:41.799054+00:00 app[web.1]: npm ERR! A complete log of this run can be found in:
+2020-08-07T14:38:41.799234+00:00 app[web.1]: npm ERR!     /app/.npm/_logs/2020-08-07T14_38_41_791Z-debug.log
+2020-08-07T14:38:41.861110+00:00 heroku[web.1]: Process exited with status 1
+2020-08-07T14:38:41.909074+00:00 heroku[web.1]: State changed from starting to crashed
+2020-08-07T14:38:44.927585+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=video-webrtc-hac.herokuapp.com request_id=9b14ee19-de68-4a58-8d50-fb45df339b3b fwd="49.34.97.225" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T14:38:45.330272+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/" host=video-webrtc-hac.herokuapp.com request_id=b84d1197-30bc-4d5f-ae30-a53c5614d480 fwd="49.34.97.225" dyno= connect= service= status=503 bytes= protocol=https
+2020-08-07T14:38:46.210014+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=video-webrtc-hac.herokuapp.com request_id=90c7031b-5727-4121-8606-ae943d78356c fwd="49.34.97.225" dyno= connect= service= status=503 bytes= protocol=https
