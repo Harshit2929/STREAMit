@@ -21,7 +21,7 @@ function App() {
           <Link to="about">About</Link>
           <Link to="/users">Users</Link>
           <Link to="/remote">Remote</Link>
-          <Link to="/recorder">Remote</Link>
+          <Link to="/recorder">Recorder</Link>
         </Nav>
         {/* <Form inline>
           <FormControl type="text" placeholder="Search" className="mr-sm-2" />
