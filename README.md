@@ -14,9 +14,6 @@ React, node.js (Signalling Server), Electron Desktop/Lite React Server [ Similar
 ###### Video of the project and if it is ready completely you can deploy it that can help the judges to evaluate. It can also create a good impression
 [Youtube Demo Link](https://www.youtube.com/watch?v=cg7w6DANMp0)
 
-##### Resume, LinkedIn and GitHub profile url of all the team members 
-1. Pushpendra Vishwakarma - [LinkedIn](https://www.linkedin.com/in/pushpendrahpx/) [Github](https://github.com/Pushpendrahpx/)
-2. Harshit Chauhan - [LinkedIn](https://www.linkedin.com/in/harshit-chauhan-35a342197/) [Github](https://github.com/Harshit2929/)
 
 
 ### Development Environment Installation Steps
@@ -40,6 +37,7 @@ React, node.js (Signalling Server), Electron Desktop/Lite React Server [ Similar
 2. Run below command to start Electron Desktop Server
     b. ``` yarn start ``` or ``` npm start ```
 
-##### About Developers
+##### Resume, LinkedIn and GitHub profile url of all the team members 
 1. Pushpendra Vishwakarma - [LinkedIn](https://www.linkedin.com/in/pushpendrahpx/) [Github](https://github.com/Pushpendrahpx/)
 2. Harshit Chauhan - [LinkedIn](https://www.linkedin.com/in/harshit-chauhan-35a342197/) [Github](https://github.com/Harshit2929/)
+
