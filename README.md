@@ -2,7 +2,7 @@
 A cross-platform app which helps users to run high specification applications on Low Specs Devices, by streaming our application on Client Devices and Processing all it in remote Cloud or local Servers
 
 ## The definition of the project that we are working on 
-An application that helps users to stream high end  the local network, STREAMit primarily uses WebRtc and WebSockets protocol (as a fallback) to transfer streams between multiple devices.
+An application that helps users to stream complex applications in their local network, STREAMit primarily uses WebRtc and WebSockets protocol (as a fallback) to transfer streams between multiple devices.
 
 ## How are we trying to solve the problem like and our approach 
 Generally when one tries to stream a high end application like game on a low spec device ,like heavy games needed a lot of data to be processed at once that requires faster processing CPUs ,which leads to terrible user experience.Our application works similar to SHAREit or Snapdrop  but uses web technologies to eliminate the process of installing native apps for different devices and operating systems,we have a progressive web app which helps  clients to use our product on all platforms or they can even use our electron app for streaming whatever they want.
