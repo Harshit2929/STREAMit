@@ -1,6 +1,6 @@
 {
-    "short_name": "Weather",
-    "name": "Weather: Do I need an umbrella?",
+    "short_name": "STREAMit",
+    "name": "Stream whatever you want",
     "icons": [
       {
         "src": "images/icon.png",
@@ -18,6 +18,6 @@
     "display": "standalone",
     "scope": "/",
     "theme_color": "#3367D6",
-    "description": "Weather forecast information"
+    "description": "Streaming application"
    
   }

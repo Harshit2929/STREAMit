@@ -1,20 +1,20 @@
 # STREAMit
 A cross-platform app which helps users to run high specification applications on Low Specs Devices, by streaming our application on Client Devices and Processing all it in remote Cloud or local Servers
 
-###### What is the definition that you are working on 
+##### What is the definition that you are working on 
 An application that helps users to stream high end  the local network, STREAMit primarily uses WebRtc and WebSockets protocol (as a fallback) to transfer streams between multiple devices.
 
-###### How are you trying to solve the problem like what is your approach 
+##### How are you trying to solve the problem like what is your approach 
 Generally when one tries to stream a high end application like game on a low spec device ,like heavy games needed a lot of data to be processed at once that requires faster processing CPUs ,which leads to terrible user experience.Our application works similar to SHAREit or Snapdrop  but uses web technologies to eliminate the process of installing native apps for different devices and operating systems,we have a progressive web app which helps  clients to use our product on all platforms or they can even use our electron app for streaming whatever they want.
 Suppose wants to play Mario,so user can remotely play that using STREAMit or any cpu extensive application that can be done on client device,can be processed on the local or cloud server.
 
-###### The Tech stack used like Django,React,etc
+##### The Tech stack used like Django,React,etc
 React, node.js (Signalling Server), Electron Desktop/Lite React Server [ Similar to game server ]
 
 ###### Video of the project and if it is ready completely you can deploy it that can help the judges to evaluate. It can also create a good impression
 [Youtube Demo Link](https://www.youtube.com/watch?v=cg7w6DANMp0)
 
-###### Resume, LinkedIn and GitHub profile url of all the team members 
+##### Resume, LinkedIn and GitHub profile url of all the team members 
 1. Pushpendra Vishwakarma - [LinkedIn](https://www.linkedin.com/in/pushpendrahpx/) [Github](https://github.com/Pushpendrahpx/)
 2. Harshit Chauhan - [LinkedIn](https://www.linkedin.com/in/harshit-chauhan-35a342197/) [Github](https://github.com/Harshit2929/)
 
