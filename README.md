@@ -36,6 +36,12 @@ React, node.js (Signalling Server), Electron Desktop/Lite React Server [ Similar
     a. ``` yarn ``` or ``` npm install ```
 2. Run below command to start Electron Desktop Server
     b. ``` yarn start ``` or ``` npm start ```
+    
+### Architectural Design
+
+file:///home/admin1/Pictures/Screenshot%20from%202021-03-15%2020-21-02.png![image](https://user-images.githubusercontent.com/56792415/111175054-034bf980-85ce-11eb-92b3-457659afce72.png)
+
+
 
 #####LinkedIn and GitHub profile url of all the team members 
 1. Pushpendra Vishwakarma - [LinkedIn](https://www.linkedin.com/in/pushpendrahpx/) [Github](https://github.com/Pushpendrahpx/)
