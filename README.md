@@ -46,4 +46,4 @@ React, node.js (Signalling Server), Electron Desktop/Lite React Server [ Similar
 ##### LinkedIn and GitHub profile url of all the team members 
 1. Pushpendra Vishwakarma - [LinkedIn](https://www.linkedin.com/in/pushpendrahpx/) [Github](https://github.com/Pushpendrahpx/)
 2. Harshit Chauhan - [LinkedIn](https://www.linkedin.com/in/harshit-chauhan-35a342197/) [Github](https://github.com/Harshit2929/)
-
+3. Sarthak Pandey - [LinkedIn](https://www.linkedin.com/in/sarthak-pandey-b8201b194/?originalSubdomain=in) [Github](https://github.com/sarthakpandey001)
